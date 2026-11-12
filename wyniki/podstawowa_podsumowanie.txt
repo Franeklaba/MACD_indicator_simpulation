@@ -1,0 +1,13 @@
+Apple Inc. (AAPL), d = 1
+Kapitał początkowy C_100:        125,280.00 USD
+Końcowa wartość portfela V_L-1:  226,979.48 USD
+Zysk/strata kwotowo:             +101,699.48 USD
+Stopa zwrotu portfela R:         +81.18%
+Zamknięte transakcje:            34
+  zyskowne (r >= 0):             17
+  stratne (r < 0):               17
+Odsetek transakcji zyskownych:   50.00%
+Największa strata:               10.80%
+Największy zysk:                 18.05%
+Sygnały / wykonane:              68 / 68
+Pozycja otwarta na końcu:        nie

@@ -1,0 +1,18 @@
+{
+  "initial_capital": 125279.99877929688,
+  "final_equity": 226979.47674144752,
+  "profit": 101699.47796215065,
+  "total_return_pct": 81.17774501364137,
+  "n_closed": 34,
+  "n_profitable": 17,
+  "n_losing": 17,
+  "win_rate_pct": 50.0,
+  "max_loss_pct": 10.803548929516571,
+  "max_gain_pct": 18.050255121000713,
+  "mean_trade_return_pct": 1.9513189834219862,
+  "n_signals": 68,
+  "n_executed": 68,
+  "open_position": false,
+  "open_position_buy_index": null,
+  "open_position_buy_price": null
+}

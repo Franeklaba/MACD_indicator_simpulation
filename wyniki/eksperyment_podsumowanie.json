@@ -1,0 +1,16 @@
+{
+  "n_tickers": 117,
+  "mean_delta_pp": -4.159358786341487,
+  "median_delta_pp": 0.0,
+  "n_better": 49,
+  "n_worse": 43,
+  "n_same": 25,
+  "mean_r_base": 15.64512354172624,
+  "median_r_base": -0.29940276706134084,
+  "mean_r_mod": 11.485764755384757,
+  "median_r_mod": 1.6747039998702418,
+  "mean_r_bh": 43.32621145051304,
+  "median_r_bh": 14.950610460034675,
+  "base_beats_bh": 42,
+  "mod_beats_bh": 45
+}
